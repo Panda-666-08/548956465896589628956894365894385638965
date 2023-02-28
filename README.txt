@@ -8,7 +8,7 @@ erstell ein proflil
 
 sei sicher das du die Minecraft 1.19.2 version ausgewählt hast
 
-stel sicher das du die forge 43.2.0 version audgewählt hast
+stell sicher das du die forge 43.2.0 version audgewählt hast
 
 öffne dein Profil
 
@@ -44,7 +44,37 @@ aktuallisiere die mods gegebenfalls in der Curseforge App (pfeil nach unten nebe
 
 
 
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
